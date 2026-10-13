@@ -1,3 +1,5 @@
+[Русская версия](README.ru.md)
+
 # Python Computer Graphics Coursework
 
 Independent Python demonstrations of rasterization, 2D line clipping, and 3D wireframe transformations. The algorithm implementations live in `processing/`; each UI has its own entry point.
